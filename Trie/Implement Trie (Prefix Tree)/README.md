@@ -21,6 +21,7 @@ trie.search("app");     // return False
 trie.startsWith("app"); // return True
 trie.insert("app");
 trie.search("app");     // return True
+```
 
 ## Constraints
 
